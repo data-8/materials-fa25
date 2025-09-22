@@ -1,6 +1,6 @@
 # Data 8 Public Materials for Fall 2025
 
-This repository contains the publicly available materials used in the Data 8 Foundations of Data Science course during the Fall 2025 semester at UC Berkeley.
+This repository contains the publicly available materials used in the Data 8 Foundations of Data Science course during the Fall 2025 semester at UC Berkeley
 
 This includes:
 
